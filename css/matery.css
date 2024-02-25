@@ -550,10 +550,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+/* .bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+} */
 
 .bg-cover:before,
 .bg-cover:after {
@@ -1227,14 +1227,14 @@ article .article-tags .chip {
     overflow: auto;
 }
 
-/**
+*
 #articleContent table,
 th,
 td {
     padding: 12px 13px;
     border: 1px solid #dfe2e5;
 }
-**/
+*
 
 table tr:nth-child(2n),
 thead {
